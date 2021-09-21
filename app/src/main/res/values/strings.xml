@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MacMessenger</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_chat_log">ChatLogActivity</string>
+    <string name="title_activity_new_message">NewMessageActivity</string>
+</resources>

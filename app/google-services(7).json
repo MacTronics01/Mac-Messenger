@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "892015541567",
+    "firebase_url": "https://mac-area-default-rtdb.firebaseio.com",
+    "project_id": "mac-area",
+    "storage_bucket": "mac-area.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892015541567:android:d23b4a2374bde9c1c2278a",
+        "android_client_info": {
+          "package_name": "com.example.area1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892015541567-0e01j684of1738ced2l95mrp1q6stula.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJHuAloGC04wuqMK5faVemRD6oGTPBUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892015541567-0e01j684of1738ced2l95mrp1q6stula.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892015541567:android:e2d1ca0b48541f8bc2278a",
+        "android_client_info": {
+          "package_name": "com.example.macmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892015541567-0e01j684of1738ced2l95mrp1q6stula.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJHuAloGC04wuqMK5faVemRD6oGTPBUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892015541567-0e01j684of1738ced2l95mrp1q6stula.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
